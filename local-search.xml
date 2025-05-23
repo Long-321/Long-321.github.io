@@ -4,6 +4,31 @@
   
   
   <entry>
+    <title>1.本地搭建</title>
+    <link href="/2025/05/23/1-%E6%9C%AC%E5%9C%B0%E6%90%AD%E5%BB%BA/"/>
+    <url>/2025/05/23/1-%E6%9C%AC%E5%9C%B0%E6%90%AD%E5%BB%BA/</url>
+    
+    <content type="html"><![CDATA[<h1 id="本地创建默认的hexo博客"><a href="#本地创建默认的hexo博客" class="headerlink" title="本地创建默认的hexo博客"></a>本地创建默认的hexo博客</h1><blockquote><p>hexo是一款非常快速，简介，高效的博客框架平台，我们可以利用hexo快速生成博客网站的模板，然后部署为我们自己的博客网站。</p></blockquote><h2 id="1-前置准备"><a href="#1-前置准备" class="headerlink" title="1. 前置准备"></a>1. 前置准备</h2><ul><li><p>安装nodejs，链接：<a href="https://nodejs.org/zh-cn">https://nodejs.org/zh-cn</a></p></li><li><p>安装git，链接：<a href="https://git-scm.com/downloads">https://git-scm.com/downloads</a></p></li></ul><h2 id="2-快速搭建"><a href="#2-快速搭建" class="headerlink" title="2. 快速搭建"></a>2. 快速搭建</h2><ul><li>安装hexo<figure class="highlight mipsasm"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs mipsasm">npm <span class="hljs-keyword">install </span>hexo-cli -g<br>hexo init <span class="hljs-keyword">blog</span><br><span class="hljs-keyword"></span>cd <span class="hljs-keyword">blog</span><br><span class="hljs-keyword"></span>npm <span class="hljs-keyword">install</span><br><span class="hljs-keyword"></span>hexo server<br></code></pre></td></tr></table></figure></li></ul><p>打开浏览器，在浏览器输入 localhost:4000 即可进入你的初始默认博客网站。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>博客搭建</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Hexo</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2025/05/22/hello-world/"/>
     <url>/2025/05/22/hello-world/</url>

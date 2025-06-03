@@ -4,6 +4,37 @@
   
   
   <entry>
+    <title>免费容器部署平台ClawCloud</title>
+    <link href="/2025/06/03/%E5%85%8D%E8%B4%B9%E5%AE%B9%E5%99%A8%E9%83%A8%E7%BD%B2%E5%B9%B3%E5%8F%B0ClawCloud/"/>
+    <url>/2025/06/03/%E5%85%8D%E8%B4%B9%E5%AE%B9%E5%99%A8%E9%83%A8%E7%BD%B2%E5%B9%B3%E5%8F%B0ClawCloud/</url>
+    
+    <content type="html"><![CDATA[<!-- 玩转AI客户端，工作流，alist， 数据库 --><blockquote><p>官网地址：<a href="https://run.claw.cloud/">https://run.claw.cloud</a><br>github注册时间：<a href="https://api.github.com/users/%E7%94%A8%E6%88%B7%E5%90%8D">https://api.github.com/users/用户名</a></p></blockquote><p><img src="/img/clawcloud-1.png" alt="首页"></p><h2 id="alist"><a href="#alist" class="headerlink" title="alist"></a>alist</h2><figure class="highlight routeros"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><code class="hljs routeros">一些参数：<br>xhofe/alist:latest<br><br><span class="hljs-attribute">PUID</span>=0 <br><span class="hljs-attribute">PGID</span>=0<br><span class="hljs-attribute">UMASK</span>=022<br><br>/opt/alist/data<br></code></pre></td></tr></table></figure>]]></content>
+    
+    
+    <categories>
+      
+      <category>好软推荐</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>部署</tag>
+      
+      <tag>免费</tag>
+      
+      <tag>clawcloud</tag>
+      
+      <tag>容器</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>基于RSS的信息聚合软件</title>
     <link href="/2025/06/03/%E5%9F%BA%E4%BA%8ERSS%E7%9A%84%E4%BF%A1%E6%81%AF%E8%81%9A%E5%90%88%E8%BD%AF%E4%BB%B6/"/>
     <url>/2025/06/03/%E5%9F%BA%E4%BA%8ERSS%E7%9A%84%E4%BF%A1%E6%81%AF%E8%81%9A%E5%90%88%E8%BD%AF%E4%BB%B6/</url>

@@ -4,6 +4,58 @@
   
   
   <entry>
+    <title>基于RSS的信息聚合软件</title>
+    <link href="/2025/06/03/%E5%9F%BA%E4%BA%8ERSS%E7%9A%84%E4%BF%A1%E6%81%AF%E8%81%9A%E5%90%88%E8%BD%AF%E4%BB%B6/"/>
+    <url>/2025/06/03/%E5%9F%BA%E4%BA%8ERSS%E7%9A%84%E4%BF%A1%E6%81%AF%E8%81%9A%E5%90%88%E8%BD%AF%E4%BB%B6/</url>
+    
+    <content type="html"><![CDATA[<blockquote><p>这是一个免费的信息聚合软件，有了它，不用看广告，不用来回切换各种APP就能快速获取资讯，订阅博主。在这个资讯爆炸的时代，他可以极大提高信息收集效率，它还可以摆脱算法推荐，打破信息茧房，重新做信息的主人而不是奴隶。</p></blockquote><ul><li>官网下载：<a href="https://follow.is/">https://follow.is/</a></li><li>github下载：<a href="https://github.com/RSSNext/Folo/releases/">https://github.com/RSSNext/Folo/releases/</a></li><li>视频教程：<a href="https://www.bilibili.com/video/BV1S2UDYWEKs">https://www.bilibili.com/video/BV1S2UDYWEKs</a><br>或者<br><a href="https://www.youtube.com/watch?v=oz3GBiLVzWo">https://www.youtube.com/watch?v=oz3GBiLVzWo</a></li><li>微信公众号转RSS：WeWe RSS</li><li>任何网站转Rss：RssHub</li></ul>]]></content>
+    
+    
+    <categories>
+      
+      <category>好软推荐</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>RSS 聚合 软件</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Scrapy基础</title>
+    <link href="/2025/06/02/Scrapy%E5%9F%BA%E7%A1%80/"/>
+    <url>/2025/06/02/Scrapy%E5%9F%BA%E7%A1%80/</url>
+    
+    <content type="html"><![CDATA[<h2 id="测试一下子分类"><a href="#测试一下子分类" class="headerlink" title="测试一下子分类"></a>测试一下子分类</h2>]]></content>
+    
+    
+    <categories>
+      
+      <category>爬虫</category>
+      
+      <category>scrapy</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>scrapy</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>5.文章查看pdf文件</title>
     <link href="/2025/06/01/5-%E6%96%87%E7%AB%A0%E6%9F%A5%E7%9C%8Bpdf%E6%96%87%E4%BB%B6/"/>
     <url>/2025/06/01/5-%E6%96%87%E7%AB%A0%E6%9F%A5%E7%9C%8Bpdf%E6%96%87%E4%BB%B6/</url>

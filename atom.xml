@@ -6,7 +6,7 @@
   <link href="https://long-321.github.io/atom.xml" rel="self"/>
   
   <link href="https://long-321.github.io/"/>
-  <updated>2025-06-01T06:01:43.400Z</updated>
+  <updated>2025-06-03T02:13:36.332Z</updated>
   <id>https://long-321.github.io/</id>
   
   <author>
@@ -15,6 +15,58 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>基于RSS的信息聚合软件</title>
+    <link href="https://long-321.github.io/2025/06/03/%E5%9F%BA%E4%BA%8ERSS%E7%9A%84%E4%BF%A1%E6%81%AF%E8%81%9A%E5%90%88%E8%BD%AF%E4%BB%B6/"/>
+    <id>https://long-321.github.io/2025/06/03/%E5%9F%BA%E4%BA%8ERSS%E7%9A%84%E4%BF%A1%E6%81%AF%E8%81%9A%E5%90%88%E8%BD%AF%E4%BB%B6/</id>
+    <published>2025-06-03T02:11:22.000Z</published>
+    <updated>2025-06-03T02:13:36.332Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>这是一个免费的信息聚合软件，有了它，不用看广告，不用来回切换各种APP就能快速获取资讯，订阅博主。在这个资讯爆炸的时代，他可以极大提高信息收集效率，它还可以摆脱算法推荐，打破信息茧房，重新做信息的主人而不是奴隶。</p></blockquote><ul><li>官网下载：<a href="https://follow.is/">https://follow.is/</a></li><li>github下载：<a href="https://github.com/RSSNext/Folo/releases/">https://github.com/RSSNext/Folo/releases/</a></li><li>视频教程：<a href="https://www.bilibili.com/video/BV1S2UDYWEKs">https://www.bilibili.com/video/BV1S2UDYWEKs</a><br>或者<br><a href="https://www.youtube.com/watch?v=oz3GBiLVzWo">https://www.youtube.com/watch?v=oz3GBiLVzWo</a></li><li>微信公众号转RSS：WeWe RSS</li><li>任何网站转Rss：RssHub</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;这是一个免费的信息聚合软件，有了它，不用看广告，不用来回切换各种APP就能快速获取资讯，订阅博主。在这个资讯爆炸的时代，他可以极大提高信息收集效率，它还可以摆脱算法推荐，打破信息茧房，重新做信息的主人而不是奴隶。&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+      
+    
+    
+    
+    <category term="好软推荐" scheme="https://long-321.github.io/categories/%E5%A5%BD%E8%BD%AF%E6%8E%A8%E8%8D%90/"/>
+    
+    
+    <category term="RSS 聚合 软件" scheme="https://long-321.github.io/tags/RSS-%E8%81%9A%E5%90%88-%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Scrapy基础</title>
+    <link href="https://long-321.github.io/2025/06/02/Scrapy%E5%9F%BA%E7%A1%80/"/>
+    <id>https://long-321.github.io/2025/06/02/Scrapy%E5%9F%BA%E7%A1%80/</id>
+    <published>2025-06-02T03:40:51.000Z</published>
+    <updated>2025-06-02T03:42:20.221Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="测试一下子分类"><a href="#测试一下子分类" class="headerlink" title="测试一下子分类"></a>测试一下子分类</h2>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;测试一下子分类&quot;&gt;&lt;a href=&quot;#测试一下子分类&quot; class=&quot;headerlink&quot; title=&quot;测试一下子分类&quot;&gt;&lt;/a&gt;测试一下子分类&lt;/h2&gt;</summary>
+      
+    
+    
+    
+    <category term="爬虫" scheme="https://long-321.github.io/categories/%E7%88%AC%E8%99%AB/"/>
+    
+    <category term="scrapy" scheme="https://long-321.github.io/categories/%E7%88%AC%E8%99%AB/scrapy/"/>
+    
+    
+    <category term="scrapy" scheme="https://long-321.github.io/tags/scrapy/"/>
+    
+  </entry>
   
   <entry>
     <title>5.文章查看pdf文件</title>
